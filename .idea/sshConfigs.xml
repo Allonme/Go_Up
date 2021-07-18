@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig host="nas.onlypy.top" id="4dae6a53-6c88-442c-b865-8a37eeaf5497" keyPath="$USER_HOME$/Documents/Drive/For Get/Baks/id_rsa" port="8298" nameFormat="DESCRIPTIVE" username="perfect" />
-    </configs>
-  </component>
-</project>
