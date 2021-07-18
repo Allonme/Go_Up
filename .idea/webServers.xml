@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e4ba8cc9-d1fe-4c4f-93df-ac073c7ef3bb" name="go">
+        <fileTransfer accessType="SFTP" host="nas.onlypy.top" port="8298" sshConfigId="4dae6a53-6c88-442c-b865-8a37eeaf5497" sshConfig="perfect@nas.onlypy.top:8298 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
